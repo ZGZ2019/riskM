@@ -20,7 +20,7 @@
       "type": "dpt.ptdeploy",
       "label": "Deploy risk_management",
       "taskType": "Deploy",
-      "ui5version": "1.130.2",
+      "ui5version": "1.130.0",
       "ui5theme": "sap_belize",
       "vendorDependency": false,
       "buildCodeServicePlan": false
