@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to your new project.
+Welcome to risk_m project.
 
 It contains these folders and files, following our recommended project layout:
 
@@ -23,3 +23,10 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+
+
+## Version / Branch
+
+Main: Complete CAP_U2_10, for CAP_U2_11 - trial account lack of mem for hana DB, hence can not complete, pls see the ssimulation instead.
+
+CAP_U2_11: will complete it once mem quota issue is fixed
